@@ -1,7 +1,7 @@
 ### <summary><strong>Hi :wave: My name is Andre</strong></summary>
 I'm a fulltime learner and a fullstack developer wannabe :smile:
 
-### Languages and Tools
+### Stacks I wanna learn
 <p>
     <img src="https://skillicons.dev/icons?i=go,js,ts,py,html,css,mongodb,postgres,sqlite,docker,nodejs,express,nextjs,react,redux,svelte,tailwind,alpinejs,git,gitlab,gcp,firebase,aws,heroku,replit,graphql,rabbitmq,postman,prisma,linux&theme=light" />
 </p>
@@ -15,14 +15,14 @@ I'm a fulltime learner and a fullstack developer wannabe :smile:
 <p>
  
 ### Let's connect!
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="https://www.linkedin.com/in/">
+  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+<a href="https://www.telegram.com/bicsquit">
+  <img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://yours.com/">
-  <img align="left" alt="Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+<a href="https://discordapp.com/users/518781270399123457">
+  <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a> </br>
 
 ### Stats
