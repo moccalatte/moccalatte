@@ -3,7 +3,7 @@ I'm a fulltime learner :smile:
 
 ### Yosh!
 <p>
-    - :seedling: I’m currently learning <b>GO and Python</b>. </br>
+    - :seedling: I’m currently learning <b>Go and Python</b>. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :envelope: How to reach me: <a href="mailto:andremilanoid@gmail.com">andremilanoid@gmail.com</a>  </br>
     - :zap: Seize the day! </br>
