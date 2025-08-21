@@ -15,8 +15,3 @@ I'm a fulltime learner :smile:
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
-
-### Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moccalatte&langs_count=12&layout=compact" />
-</p>
